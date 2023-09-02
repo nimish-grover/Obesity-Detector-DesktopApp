@@ -1,4 +1,4 @@
-# Obesity-Detector-DesktopApp
+
 # Obesity Detector Desktop Application
 
 ![GitHub](https://img.shields.io/github/license/nimish-grover/Obesity-Detector-DesktopApp)
@@ -23,7 +23,7 @@ The Obesity Detector Desktop Application is a Python-based Jupiter Notebook proj
 To use the Obesity Detector Desktop Application, follow these simple installation steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/nimish-grover/Obesity-Detector-DesktopApp.git
+   """ git clone https://github.com/nimish-grover/Obesity-Detector-DesktopApp.git """
 
 
 2. **Navigate to the Project Directory:**
