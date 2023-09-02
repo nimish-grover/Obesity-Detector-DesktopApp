@@ -8,9 +8,13 @@
 
 The Obesity Detector Desktop Application is a Python-based Jupiter Notebook project designed to help users estimate their body mass index (BMI) and assess their risk of obesity. This interactive application utilizes machine learning algorithms to analyze user-provided data, including height and weight, to determine BMI and predict the obesity using your vitals and images.
 
-
+## Sample Output
 <p align = "center">
    <img src="/image/main.png"/>
+   <img src="/image/image.png" width="320" height="300"/>
+</p>
+<p align = "center">
+   <img src="/image/text.png"/>
 </p>
 
 ## Features
