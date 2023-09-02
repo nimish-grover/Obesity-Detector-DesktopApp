@@ -47,4 +47,4 @@ clf = CatBoostClassifier(
 # precision_recall_fscore_support(y_test, p, average='weighted')
 # clf.save_model("model")
 clf.load_model('model')
-pred_list=["Insufficient Weight","Normal","Obesity Type 1","Obesity Type 2","Obesity Type 3","Overweight level 1","Overweight level 2"]
+pred_list=["Insufficient Weight","Normal","Obesity Type 1","Obesity Type 2","Obesity Type 3","Overweight level 1","Overweight level 2"] 
