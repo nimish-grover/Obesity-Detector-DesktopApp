@@ -8,6 +8,7 @@ model = project.version(3).model
 # pred=list(model.predict(file, confidence=40, overlap=30))
 # print(pred[0]['class'])
 
+
 # visualize your prediction
 # model.predict("your_image.jpg", confidence=40, overlap=30).save("prediction.jpg")
 
